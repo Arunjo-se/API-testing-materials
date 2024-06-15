@@ -1,4 +1,4 @@
-package com.p1;
+package com.basicItems;
 
 import static io.restassured.RestAssured.given;
 

@@ -1,4 +1,4 @@
-package com.p1;
+package com.basicItems;
 
 import org.testng.annotations.Test;
 import io.restassured.response.Response;
